@@ -18,7 +18,7 @@ kotlin-api
 
 Let's have a look at the pom
 -----------------
-[The pom](examples/kotlin-api/pom.xml)
+[The pom](kotlin-api/pom.xml)
 
 - sparkjava, gson, kotlin-stdlib, kotlin-test-junit
 - Kotlin Maven Plugin to compile, test and package kotlin source
