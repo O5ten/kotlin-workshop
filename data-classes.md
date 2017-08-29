@@ -96,6 +96,16 @@ It's as simple as it sounds, you can make arguments for the constructor optional
 data class User(val id: String = "-1", val name: String = "Unknown user", val age: Int = -1)
 ```
 
+Named parameters
+----------------
+Never again would you need to remember the exact order of the constructor arguments. Meet named parameters.
+
+```kotlin
+val testUser = User(id = "BEEF1337",
+                    name = "Eric Christenssen",
+                    age = 37)
+```
+
 Copying
 --------------
 Another freebie of the data class, is an automatic copy method where you can name parameters to replace. Let's say i wanted to keep a copy of the username but with another id and age.
