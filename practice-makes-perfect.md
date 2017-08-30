@@ -1,6 +1,6 @@
 ﻿A RESTful API for a microservice using Kotlin!
 ------------------
-In [the github project for these pages](kotlin-api) there's a folder called kotlin-api. It contains a small stub-project with dependencies from [sparkjava](http://sparkjava.com) that has a sub-project for Kotlin. You should go check it out!
+In [the github project for these pages](https://github.com/O5ten/kotlin-workshop/tree/master/kotlin-api) there's a folder called kotlin-api. It contains a small stub-project with dependencies from [sparkjava](http://sparkjava.com) that has a sub-project for Kotlin. You should go check it out!
 
 Project Structure
 ----------------
